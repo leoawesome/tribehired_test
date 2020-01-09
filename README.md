@@ -25,10 +25,10 @@ Create an endpoint that allows a user to filter the comments based on all the av
 ## How to use
 
 1. localhost:3000/api/top  
-It show the top post with the most comments.
+It shows the top post with the most comments.
 
 2. localhost:3000/api/top/{number}  
-It show the {number} of top post with the most comments.
+It shows the {number} of top post(s) with the most comments.
 
 3. localhost:3000/api/search?postId=99&id=491&name=odio&email=Maxwell@adeline.me&body=natus  
 You can change the route query in order to search the comments based on the criterias below:
