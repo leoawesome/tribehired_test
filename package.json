@@ -21,7 +21,7 @@
   "homepage": "https://github.com/leoawesome/tribehired_test#readme",
   "dependencies": {
     "@boxescms/server": "^0.1.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "axios": "^0.19.1"
   },
   "standard": {
